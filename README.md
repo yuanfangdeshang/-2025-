@@ -13,9 +13,9 @@
 
 ### 1. 导出聊天记录
 
-使用 [留痕/WeChatMsg](https://github.com/LC044/WeChatMsg) 工具导出聊天记录为 JSON 格式：
+使用 [Echotrace](https://github.com/ycccccccy/echotrace) 工具导出聊天记录为 JSON 格式：
 
-1. 下载并安装 WeChatMsg
+1. 下载并安装 Echotrace
 2. 选择要导出的私聊会话
 3. 导出为 JSON 格式
 
@@ -66,7 +66,7 @@ wechat-chat-report/
 
 ## 📝 JSON 格式要求
 
-支持 WeChatMsg 导出的标准格式：
+支持 Echotrace 导出的标准格式：
 
 ```json
 {
